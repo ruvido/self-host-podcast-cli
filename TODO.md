@@ -1,0 +1,8 @@
+- [ ] github action to auto-deploy (ie scheduling)
+- [!] do NOT submit SENSIBLE data like FTP access
+- [ ] update episode <link> (episode page)
+- [ ] make json file for episodes (to fetch it from another 11ty)
+- [X] update id3tags according to the episode file
+---
+- bash script no-dependencies to generate rss (make a diff with the one from 11ty)
+- [ ] check official 11ty plugins (https://www.11ty.dev/docs/plugins/)
