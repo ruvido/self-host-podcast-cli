@@ -3,6 +3,9 @@ _site/
 node_modules/
 .env
 *.mp3
+*.MP3
+*.wav
+*.WAV
 
 # Local Netlify folder
 .netlify
